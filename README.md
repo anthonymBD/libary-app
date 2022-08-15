@@ -6,7 +6,7 @@ For amazon goodreads app .. click on my books, and scroll down to tools and clic
 
 ### to dues
 1. put into next JS
-2.Fix openlibary to search instead of hardcoding it in javascript
+2. Fix openlibary to search instead of hardcoding it in javascript
 3.  Show all important data not just the cover 
 4.  axio/fetch setup and testing API's
 5.  prettier for the javascript the code is a bit messy 
