@@ -4,6 +4,8 @@
 
 - this is more a passion project, I hope to find time to make it better
 
+https://gorgeous-capybara-1fecfd.netlify.app/
+
 For amazon goodreads app .. click on my books, and scroll down to tools and click import and export inside the page you will see a Export Library button, this will send you a CSV which can be viewed in google sheets. * honestly you don't need this app to find the photos for the csv but I know some people don't know how to use google sheets*
 
 ### to dues
